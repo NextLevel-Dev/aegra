@@ -30,3 +30,5 @@ htmlcov/
 
 # Pre-commit
 .pre-commit-cache/
+
+credentials/*
