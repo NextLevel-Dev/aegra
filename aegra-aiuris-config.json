@@ -1,6 +1,6 @@
 {
   "graphs": {
-    "aiuris_agent_chat": "./graphs/aiuris_agent_chat/graph.py:graph"
+    "aiuris_agent_chat": "./graphs/aiuris_agent/graph.py:graph"
   },
   "http": {
     "app": "./custom_routes_example.py:app"
